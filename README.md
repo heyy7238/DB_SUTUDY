@@ -8,3 +8,4 @@
 
 -session key 값 저장,가져오기,제거
 
+redirect(전달할 데이터가 없는경우)     vs    forward(데이터를 머금고 전달할 경우)

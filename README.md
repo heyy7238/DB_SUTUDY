@@ -6,5 +6,5 @@
 
 #login,logout
 
--session key 값 저장,가져오기 오기,제거
+-session key 값 저장,가져오기,제거
 
